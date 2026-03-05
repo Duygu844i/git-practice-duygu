@@ -1,1 +1,1 @@
-# git-practice-duygu
+# Bu menim ilk Git layihemdir.
