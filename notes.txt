@@ -1,0 +1,3 @@
+This project was created for Git and GitHub tutorials.
+This file was created on the feature-2 branch.
+It's very interesting to learn Git commands visually.
